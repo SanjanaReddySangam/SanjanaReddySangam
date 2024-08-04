@@ -1,14 +1,21 @@
-👋 Welcome to my GitHub profile! 
+👋 Hi there! I'm Sanjana Reddy Sangam, a passionate developer with a keen interest in data analysis and machine learning. I'm currently pursuing my journey towards becoming a proficient Data Analyst.
 
-🎓 Computer Science and Engineering (CSE) student, eager to explore and learn about cutting-edge technologies.
+💻 I enjoy working on projects that involve:
+- Automating data extraction and analysis
+- Building insightful visualizations
+- Developing machine learning models
 
-Skills:
-💻 Proficient in C and Python programming languages.
-🌐 Frontend web development using HTML, CSS, and JavaScript.
+🌟 Highlights:
+- Created an automated PDF to Excel converter using Python and Streamlit, achieving over 95% accuracy in text extraction.
+- Developed an Inventory Management System using Java NetBeans and MySQL.
 
-☁️ Fascinated by Cloud Computing and its potential to revolutionize the way we build and deploy software.
+📚 I'm constantly learning and growing my skills in:
+- Data Analysis
+- Machine Learning
+- Python
+- SQL
 
-🌱 I’m currently learning C++, Java, Backend Development. 
-📫 How to reach me: sangamsanjanareddy@gmail.com
+🌐 Let's connect and collaborate on exciting projects!
 
-Join me on my coding journey as I create exciting projects and collaborate with fellow developers. Let's build the future together! 🚀
+📧 Reach me at: sangamsanjanareddy@gmail.com
+🔗 Check out my work: [GitHub](https://github.com/SanjanaReddySangam)
